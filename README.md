@@ -21,8 +21,6 @@ A reusable component that allows inline text editing for various text elements o
 Provides manipulation options for each component on the canvas:
 - Rotation controls
 - Delete functionality 
-- Position adjustment
-- Content editing
 
 ## Key Functions
 
