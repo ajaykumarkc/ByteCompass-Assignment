@@ -18,7 +18,7 @@ Contains draggable elements that users can add to their canvas:
 - Text components
 - Cards
 - Reordering elements of Navbar Vertically
-- Image upload functionality
+- Image upload functionality with single click
 
 ### 3. Editable Text Component
 A reusable component that allows inline text editing for various text elements on the board.
