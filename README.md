@@ -2,6 +2,9 @@
 
 A dynamic web application that allows users to create personalized vision boards by dragging, dropping, and manipulating various components on a canvas.
 
+## Deployed On S3 Bucket Click To Try Out !! 
+http://awsbucketajay.s3-website.ap-south-1.amazonaws.com/
+
 ## Core Components
 
 ### 1. Main Canvas
