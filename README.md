@@ -5,9 +5,6 @@ A dynamic web application that allows users to create personalized vision boards
 ## Demo Video
 [](https://github.com/user-attachments/assets/7afc69ea-76ca-418d-96cb-64531464d52c)
 
-## Deployed On S3 Bucket Click To Try Out !! 
-http://awsbucketajay.s3-website.ap-south-1.amazonaws.com/
-
 ## Core Components
 
 ### 1. Main Canvas
@@ -27,6 +24,9 @@ A reusable component that allows inline text editing for various text elements o
 Provides manipulation options for each component on the canvas:
 - Rotation controls
 - Delete functionality 
+
+## Deployed On S3 Bucket Click To Try Out !! 
+http://awsbucketajay.s3-website.ap-south-1.amazonaws.com/
 
 ## Key Functions
 
