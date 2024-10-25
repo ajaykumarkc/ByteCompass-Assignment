@@ -107,7 +107,7 @@ handleImageUpload() // Processes and adds images to the board
 
 ```bash
 # Clone the repository
-git clone [repository-url]
+git clone https://github.com/ajaykumarkc/ByteCompass-Assignment.git
 
 # Install dependencies
 npm install
